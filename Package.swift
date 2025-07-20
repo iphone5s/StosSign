@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/stossy11/CoreCrypto-SPM", branch: "master"),
         .package(url: "https://github.com/marmelroy/Zip.git", branch: "master"),
-        .package(url: "https://github.com/khcrysalis/Zsign-Package.git", branch: "package")
+        .package(url: "https://github.com/iphone5s/Zsign-Package.git", branch: "package")
         //https://github.com/marmelroy/Zip
     ],
     targets: [
